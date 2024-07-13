@@ -1,0 +1,194 @@
+html{
+    height: 100%;
+}
+
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.body-home{
+    background-image: url('images/hearty%20meal.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-menu-item{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid white;
+    
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+.starters-list a{
+  text-decoration: none;
+}
+
+.starters-list-item{
+    border: 5px solid #1a1a1a;
+    margin: 10px;
+}
+
+.starters-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1a1a;
+    padding-left: 10px;
+}
+
+.meals-list a{
+  text-decoration: none;
+}
+
+.meals-list-item{
+    border: 5px solid #1a1a1a;
+    margin: 10px;
+}
+
+.meals-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1a1a;
+    padding-left: 10px;
+}
+
+.drinks-list a{
+  text-decoration: none;
+}
+
+.drinks-list-item{
+    border: 5px solid #1a1a1a;
+    margin: 10px;
+}
+
+.drinks-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1a1a;
+    padding-left: 10px;
+}
+
+.deserts-list a{
+  text-decoration: none;
+}
+
+.deserts-list-item{
+    border: 5px solid #1a1a1a;
+    margin: 10px;
+}
+
+.deserts-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1a1a;
+    padding-left: 10px;
+}
+
+
+order{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.home-order-item{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid black;
+    
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+.fa-solid fa-arrow-left icon{
+    font-size: 80px;
+    font-weight: bold;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
